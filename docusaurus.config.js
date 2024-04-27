@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'vipvincent Docs',
-  tagline: '你可以在此處查看文檔',
+  tagline: 'Welcome to vipvincent Docs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,6 +77,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/logo.png',
       navbar: {
         title: '早安豆江文檔',
         logo: {

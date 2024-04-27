@@ -5,6 +5,7 @@ pagination_next:  null
 slug: /
 hide_title: true
 title: 首頁
+description: 歡迎來到早安豆江文檔
 ---
 import Link from '@docusaurus/Link';
 

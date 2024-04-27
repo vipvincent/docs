@@ -5,6 +5,7 @@ pagination_next:  null
 slug: /
 hide_title: true
 title: Home
+description: Welcome to vipvincent Docs
 ---
 import Link from '@docusaurus/Link';
 
