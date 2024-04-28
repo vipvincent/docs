@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 pagination_prev:  null 
 ---
 import Link from '@docusaurus/Link';
@@ -16,9 +16,9 @@ Allows invisibility Item Frame that originally need to be obtained through comma
 ---
 ## Download
 
-<Link className="button button--primary button--lg" href="https://modrinth.com/datapack/invisibility-itemframe">Modrinth</Link>
+<Link className="button button--success button--lg" href="https://modrinth.com/datapack/invisibility-itemframe">Modrinth</Link>
 
-#
+##
 :::note
 
 The mod version is only now available on the Modrinth website

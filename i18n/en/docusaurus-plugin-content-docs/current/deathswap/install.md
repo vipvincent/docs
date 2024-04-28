@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Death Swap Installation Tutorial
 ---
 
 # How to Install

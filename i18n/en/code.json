@@ -285,5 +285,26 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "早安豆江文檔": {
+    "message": "vipvincent Docs"
+  },
+  "歡迎來到早安豆江文檔": {
+    "message": "Welcome to vipvincent Docs"
+  },
+  "查看文檔": {
+    "message": "See the Docs"
+  },
+  "死亡交換": {
+    "message": "Death Swap"
+  },
+  "玩家之間隨機交換，設計陷阱並互相陷害": {
+    "message": "Players exchange randomly, design traps and frame each other."
+  },
+  "合成隱形物品展示框": {
+    "message": "Craftable Invisible Item Frame"
+  },
+  "讓隱形的物品展示框可以合成": {
+    "message": "Make invisible item frame can be craft."
   }
 }

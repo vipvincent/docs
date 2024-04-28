@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
+description: 死亡交換安裝教學
 ---
 
 # 如何安裝
-
 
 資料包放入世界資料夾下的`datapacks`資料夾；模組則放入`mods`資料夾。
 

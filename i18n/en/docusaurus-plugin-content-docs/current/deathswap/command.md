@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+pagination_next:  null 
+description: Death Swap command list
 ---
 
 # Command list

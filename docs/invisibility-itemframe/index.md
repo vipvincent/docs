@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 pagination_prev:  null 
 ---
 import Link from '@docusaurus/Link';
@@ -16,9 +16,9 @@ import Link from '@docusaurus/Link';
 ---
 ## 下載
 
-<Link className="button button--primary button--lg" href="https://modrinth.com/datapack/invisibility-itemframe">Modrinth</Link>
+<Link className="button button--success button--lg" href="https://modrinth.com/datapack/invisibility-itemframe">Modrinth</Link>
 
-#
+##
 :::note
 
 模組版本僅現在Modrinth網頁上

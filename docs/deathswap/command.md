@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+pagination_next:  null 
+description: 死亡交換指令列表
 ---
 
 # 指令列表
