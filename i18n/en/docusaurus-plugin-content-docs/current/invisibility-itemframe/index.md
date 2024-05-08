@@ -19,9 +19,11 @@ Allows invisibility Item Frame that originally need to be obtained through comma
 <Link className="button button--success button--lg" href="https://modrinth.com/datapack/invisibility-itemframe">Modrinth</Link>
 
 ##
-:::note
+:::tip
 
-The mod version is only now available on the Modrinth website
+The mod version is only now available on the Modrinth website.  
+Mod versions is the same as datapack, but it will automatically apply to all worlds, usually on servers.  
+If you don't want to apply to all worlds, please use datapack.  
 
 :::
 :::info
@@ -30,7 +32,9 @@ Mod loader only support **Fabric**, **Forge** and **Quilt**, not support **Neofo
 Fabric requires [**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt requires [**Quilted Fabric API**](https://modrinth.com/mod/qsl)
 
 :::
+:::warning
+ 
+To install in an existing world, please make sure your world is backed up.
+I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible.
 
-
-
-
+:::

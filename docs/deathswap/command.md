@@ -39,5 +39,5 @@ description: 死亡交換指令列表
 ---
 ## `/reload`
 
-重新載入檔案，僅限OP玩家操作  
+重新載入檔案，僅限OP玩家操作。  
 [詳情請查看Minecraft Wiki](https://zh.minecraft.wiki/w/%E5%91%BD%E4%BB%A4/reload)
