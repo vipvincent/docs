@@ -135,28 +135,23 @@ const config = {
             ],
           },
           {
-            title: '社群',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/3BKAydVfDk',
-              },
-              {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/@vipvincentgame',
-              },
-            ],
-          },
-          {
-            title: '更多',
+            title: '連結',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/vipvincent',
               },
-			  {
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/3BKAydVfDk',
+              },
+              {
                 label: 'Modrinth',
                 href: 'https://modrinth.com/user/vipvincent1107',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@vipvincentgame',
               },
             ],
           },

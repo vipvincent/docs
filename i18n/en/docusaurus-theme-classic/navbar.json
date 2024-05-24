@@ -9,10 +9,10 @@
   },
   "item.label.死亡交換": {
     "message": "Death Swap",
-    "description": "Navbar item with label 死亡交換"
+    "description": "Navbar item with label Death Swap"
   },
   "item.label.合成隱形物品展示框": {
     "message": "Craftable Invisibility Item Frame",
-    "description": "Navbar item with label 合成隱形物品展示框"
+    "description": "Navbar item with label Craftable Invisibility Item Frame"
   }
 }
