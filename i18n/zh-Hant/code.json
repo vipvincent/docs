@@ -135,7 +135,7 @@
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.NotFound.title": {
-    "message": "找不到頁面",
+    "message": "404 Not Found",
     "description": "The title of the 404 page"
   },
   "theme.tags.tagsListLabel": {
@@ -207,11 +207,11 @@
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
-    "message": "我們沒有您要找的頁面。",
+    "message": "We could not find what you were looking for.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "請聯絡原始連結來源網站的所有者，並通知他們連結已毀損。",
+    "message": "我們沒有您要找的頁面。",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {

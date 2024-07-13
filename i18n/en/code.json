@@ -135,7 +135,7 @@
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.NotFound.title": {
-    "message": "Page Not Found",
+    "message": "404 Not Found",
     "description": "The title of the 404 page"
   },
   "theme.tags.tagsListLabel": {
@@ -211,7 +211,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "message": "我們沒有您要找的頁面。",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
