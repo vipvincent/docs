@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "vipvincent Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "vipvincent logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.死亡交換": {
+    "message": "Death Swap",
+    "description": "Navbar item with label Death Swap"
+  },
+  "item.label.合成隱形物品展示框": {
+    "message": "Craftable Invisibility Item Frame",
+    "description": "Navbar item with label Craftable Invisibility Item Frame"
+  }
+}
