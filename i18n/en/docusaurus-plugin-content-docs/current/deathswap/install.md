@@ -26,7 +26,7 @@ If you don't want to apply to all worlds, please use datapack.
 :::
 :::info
 
-Mod loader only support **Fabric**, **Forge** and **Quilt**, not support **Neoforge**  
+Mod loader support for **Fabric**, **Forge**, **Neoforge** and **Quilt**  
 Fabric requires [**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt requires [**Quilted Fabric API**](https://modrinth.com/mod/qsl)
 
 :::

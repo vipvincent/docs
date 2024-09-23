@@ -28,7 +28,7 @@ import Link from '@docusaurus/Link';
 :::
 :::info
 
-模組載入器僅支持**Fabric**、**Forge**和**Quilt**，暫不支持**Neoforge**  
+模組載入器支持**Fabric**、**Forge**、**Neoforge**和**Quilt**  
 Fabric需要[**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt需要[**Quilted Fabric API**](https://modrinth.com/mod/qsl)
 
 :::
