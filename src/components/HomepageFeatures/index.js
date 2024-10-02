@@ -26,6 +26,16 @@ const FeatureList = [
       </Translate>
     ),
   },
+  {
+    title: <Translate>鞘翅胸甲</Translate>,
+    link: './elytra_chestplate',
+    image: require('@site/static/img/elytra_chestplate.png').default,
+    description: (
+      <Translate>
+        你可以將胸甲與鞘翅同時裝備並使用
+      </Translate>
+    ),
+  },
 ];
 
 function Feature({ image, title, description, link }) {

@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.main.category.死亡交換": {
+    "message": "死亡交換",
+    "description": "The label for category 死亡交換 in sidebar main"
+  }
+}

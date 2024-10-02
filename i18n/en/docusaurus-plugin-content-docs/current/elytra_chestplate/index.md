@@ -20,13 +20,11 @@ Chestplate and Elytra can be crafting by the Smithing Table, and used on the pla
 ---
 ## Craft
 
-![craft](./img/craft.png)
-
 :::info
-
 The existing enchantments, durability, and naming of the breastplate will be retained when crafted, but those on the elytra will not be retained.
-
 :::
+
+![craft](./img/craft.png)
 
 ---
 ## Download
@@ -35,8 +33,6 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 
 ##
 :::warning
- 
 To install in an existing world, please make sure your world is backed up.
 I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible.
-
 :::

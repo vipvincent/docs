@@ -1,0 +1,42 @@
+{
+  "link.title.文檔": {
+    "message": "文檔",
+    "description": "The title of the footer links column with title=文檔 in the footer"
+  },
+  "link.title.連結": {
+    "message": "連結",
+    "description": "The title of the footer links column with title=連結 in the footer"
+  },
+  "link.item.label.死亡交換": {
+    "message": "死亡交換",
+    "description": "The label of footer link with label=死亡交換 linking to /deathswap"
+  },
+  "link.item.label.合成隱形物品展示框": {
+    "message": "合成隱形物品展示框",
+    "description": "The label of footer link with label=合成隱形物品展示框 linking to /invisibility-itemframe"
+  },
+  "link.item.label.鞘翅胸甲": {
+    "message": "鞘翅胸甲",
+    "description": "The label of footer link with label=鞘翅胸甲 linking to /elytra_chestplate"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/vipvincent"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/3BKAydVfDk"
+  },
+  "link.item.label.Modrinth": {
+    "message": "Modrinth",
+    "description": "The label of footer link with label=Modrinth linking to https://modrinth.com/user/vipvincent1107"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/@vipvincentgame"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 vipvincent. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

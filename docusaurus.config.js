@@ -102,6 +102,11 @@ const config = {
             label: '合成隱形物品展示框',
             position: 'left',
           },
+          {
+            to: '/elytra_chestplate',
+            label: '鞘翅胸甲',
+            position: 'left',
+          },
 		      {
             type: 'localeDropdown',
             position: 'right',
@@ -131,6 +136,10 @@ const config = {
               {
                 to: '/invisibility-itemframe',
                 label: '合成隱形物品展示框',
+              },
+              {
+                to: '/elytra_chestplate',
+                label: '鞘翅胸甲',
               },
             ],
           },

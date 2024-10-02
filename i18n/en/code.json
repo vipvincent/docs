@@ -278,13 +278,33 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "theme.unlistedContent.title": {
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}",
+    "description": "The title of the page for a blog author"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "Authors",
+    "description": "The title of the authors page"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "View all authors",
+    "description": "The label of the link targeting the blog authors page"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
     "message": "Unlisted page",
     "description": "The unlisted content banner title"
   },
-  "theme.unlistedContent.message": {
+  "theme.contentVisibility.unlistedBanner.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "Draft page",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "description": "The draft content banner message"
   },
   "早安豆江文檔": {
     "message": "vipvincent Docs"
@@ -306,5 +326,11 @@
   },
   "讓隱形的物品展示框可以合成": {
     "message": "Make invisible item frame can be craft."
+  },
+  "鞘翅胸甲": {
+    "message": "Elytra Chestplate"
+  },
+  "你可以將胸甲與鞘翅同時裝備並使用": {
+    "message": "You can equip and use chestplate and elytra at the same time"
   }
 }

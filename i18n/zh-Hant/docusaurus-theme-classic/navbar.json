@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "vipvincent Docs",
+    "message": "早安豆江文檔",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.死亡交換": {
-    "message": "Death Swap",
+    "message": "死亡交換",
     "description": "Navbar item with label 死亡交換"
   },
   "item.label.合成隱形物品展示框": {
-    "message": "Craftable Invisibility Item Frame",
+    "message": "合成隱形物品展示框",
     "description": "Navbar item with label 合成隱形物品展示框"
   },
   "item.label.鞘翅胸甲": {
-    "message": "Elytra Chestplate",
+    "message": "鞘翅胸甲",
     "description": "Navbar item with label 鞘翅胸甲"
   }
 }

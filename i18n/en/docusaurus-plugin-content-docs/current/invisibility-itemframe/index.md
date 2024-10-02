@@ -20,11 +20,9 @@ Allows invisibility Item Frame that originally need to be obtained through comma
 
 ##
 :::tip
-
 The mod version is only now available on the Modrinth website.  
 Mod versions is the same as datapack, but it will automatically apply to all worlds, usually on servers.  
 If you don't want to apply to all worlds, please use datapack.  
-
 :::
 :::info
 
@@ -33,8 +31,6 @@ Fabric requires [**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt re
 
 :::
 :::warning
- 
 To install in an existing world, please make sure your world is backed up.
 I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible.
-
 :::
