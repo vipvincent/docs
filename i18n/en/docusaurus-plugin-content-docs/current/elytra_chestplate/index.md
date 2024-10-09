@@ -2,7 +2,6 @@
 sidebar_position: 3
 pagination_prev:  null 
 ---
-import Link from '@docusaurus/Link';
 
 # Elytra Chestplate
 
@@ -21,7 +20,9 @@ Chestplate and Elytra can be crafting by the Smithing Table, and used on the pla
 ## Craft
 
 :::info
+
 The existing enchantments, durability, and naming of the breastplate will be retained when crafted, but those on the elytra will not be retained.
+
 :::
 
 ![craft](./img/craft.png)
@@ -29,10 +30,13 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 ---
 ## Download
 
-<Link className="button button--success button--lg" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</Link>
+<a className="button button--success button--lg" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>
 
 ##
+
 :::warning
+
 To install in an existing world, please make sure your world is backed up.
 I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible.
+
 :::
