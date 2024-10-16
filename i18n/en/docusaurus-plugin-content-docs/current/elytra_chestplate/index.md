@@ -7,7 +7,7 @@ pagination_prev:  null
 
 :::tip
 
-Minecraft requires snapshot 24w36a of 1.21.2 or above
+Minecraft requires 1.21.2 or above
 
 :::
 

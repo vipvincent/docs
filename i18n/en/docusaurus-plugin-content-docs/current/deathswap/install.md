@@ -11,8 +11,9 @@ Data packs are placed in the `datapacks` folder under the world folder; mod are 
 
 :::tip
 
-Mod versions is the same as datapack, but it will automatically apply to all worlds, usually on servers.  
-If you don't want to apply to all worlds, please use datapack.  
+The features of the mod and the data pack are identical.   
+The data pack only for single world, and can be used in LAN world and server.   
+The mod applies to all worlds, so it's recommended for server.
 
 :::
 
