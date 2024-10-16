@@ -30,13 +30,4 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 ---
 ## Download
 
-<a className="button button--success button--lg" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>
-
-##
-
-:::warning
-
-To install in an existing world, please make sure your world is backed up.
-I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible.
-
-:::
+<a className="button button--success button--lg" target="_blank" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>

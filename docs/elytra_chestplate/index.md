@@ -30,13 +30,4 @@ pagination_prev:  null
 ---
 ## 下載
 
-<a className="button button--success button--lg" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>
-
-##
-
-:::warning
-
-安裝在現有世界，請確保你的世界已經備份。  
-本人不對任何導致世界損壞、軟體衝突或其他問題進行負責，使用者因自行負責。
-  
-:::
+<a className="button button--success button--lg" target="_blank" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>

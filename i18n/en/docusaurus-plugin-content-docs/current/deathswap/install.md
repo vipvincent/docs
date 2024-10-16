@@ -5,15 +5,6 @@ description: Death Swap Installation Tutorial
 
 # How to Install
 
-:::warning
-
-Death Swap is recommended for installation in newly created worlds.  
-If installed in an existing world, it will cause your equipment, items, or blocks to disappear, and more likely cause world damage.    
-So if you still want to install in an existing world, make sure your world is backed up.  
-I am not responsible for any damage to the world, software conflicts, or other problems that may result. The user is solely responsible. 
-
-:::
-
 Data packs are placed in the `datapacks` folder under the world folder; mod are placed in the `mods` folder.
 
 ![folder](./img/folder.png)
