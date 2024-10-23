@@ -22,7 +22,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'vipvincent', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
-  deploymentBranch: 'gh-pages', //The name of the deployment branch.
   trailingSlash: false, // trailing slash
 
   onBrokenLinks: 'throw',
@@ -85,13 +84,6 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Docs',
-          // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             to: '/deathswap',
             label: '死亡交換',
@@ -170,6 +162,11 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
     }),
   stylesheets: [

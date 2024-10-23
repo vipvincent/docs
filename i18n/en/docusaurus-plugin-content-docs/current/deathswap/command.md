@@ -1,15 +1,29 @@
 ---
 sidebar_position: 2
 pagination_next:  null 
-description: Death Swap command list
+description: Death Swap command List
 ---
 
-# Command list
+# Command List
 
 ## `/reload`
 
-Reloading the file will also install DeathSwap, only OP players can do it.  
-[See the Minecraft Wiki for details](https://minecraft.wiki/w/Commands/reload)
+Reloading file, only OP players can do it.  
+
+## `/function deathswap:install`
+
+install Death Swap, only OP players can do it.   
+see the [Installation Guide](./install)
+
+## `/function deathswap:uninstall`
+
+Uninstall Death Swap, only OP players can do it.
+
+## `/function deathswap:ui/language`
+
+Display the setting language interface, only OP players can do it.
+
+![language](./img/language_menu.png)
 
 ## `/tag <player> add admin` {#tag-add-admin}
 
@@ -31,13 +45,3 @@ Example:
 ## `/trigger deathswap set 5`
 
 Reset game, admin right players can do it.
-
-## `/function deathswap:ui/language`
-
-Display the setting language interface, only OP players can do it.
-
-![language](./img/language_menu.png)
-
-## `/function deathswap:uninstall`
-
-Uninstalling Death Swap, only OP players can do it.

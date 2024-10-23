@@ -7,7 +7,7 @@ pagination_prev:  null
 
 :::tip
 
-Minecraft requires 1.21.2 or above
+Minecraft requires 1.21.2/1.21.3 or above
 
 :::
 
