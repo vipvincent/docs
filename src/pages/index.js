@@ -11,7 +11,7 @@ import Translate, {translate} from '@docusaurus/Translate';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           <Translate>早安豆江文檔</Translate>

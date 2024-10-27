@@ -104,14 +104,19 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://www.youtube.com/@vipvincentgame',
+            position: 'right',
+            html: '<i class="fa-brands fa-youtube fa-lg"></i>',
+          },
+          {
             href: 'https://discord.gg/3BKAydVfDk',
             position: 'right',
-            html: '<i class="fa-brands fa-discord fa-fw fa-lg"></i>',
+            html: '<i class="fa-brands fa-discord fa-lg"></i>',
           },
           {
             href: 'https://github.com/vipvincent',
             position: 'right',
-            html: '<i class=" fa-brands fa-github fa-fw fa-lg"></i>',
+            html: '<i class="fa-brands fa-github fa-lg"></i>',
           },
         ],
       },
@@ -169,24 +174,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
     }),
-  stylesheets: [
-    {
-      rel: 'preconnect',
-      href: 'https://fonts.googleapis.com',
-    },
-    {
-      rel: 'preconnect',
-      href: 'https://fonts.gstatic.com',
-      crossorigin: "anonymous",
-    },
-    {
-      rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap',
-    },
-  ],
   scripts: [
     {
-      src: 'https://use.fontawesome.com/releases/v6.5.2/js/all.js',
+      src: 'https://use.fontawesome.com/releases/v6.6.0/js/all.js',
       async: true,
       crossorigin: "anonymous",
     },

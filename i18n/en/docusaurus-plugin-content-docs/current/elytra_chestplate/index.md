@@ -5,16 +5,11 @@ pagination_prev:  null
 
 # Elytra Chestplate
 
-:::tip
-
-Minecraft requires 1.21.2/1.21.3 or above
-
-:::
-
 Chestplate and Elytra can be crafting by the Smithing Table, and used on the player at the same time, and both functions can be used.
 
-- Support for all Minecraft Vanilla chestplate
-- Supports all languages ​​without resource pack (Needs to be a language supported by Minecraft itself)
+- Chestplate and elytra can be used and displayed at the same time
+- Support armor trim
+- Supports all Minecraft languages
 
 ---
 ## Craft

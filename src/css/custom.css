@@ -29,6 +29,8 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-body, p, h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Sans TC", sans-serif;
-} 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Noto Sans TC', sans-serif;
+}
