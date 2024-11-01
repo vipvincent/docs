@@ -25,4 +25,20 @@ The existing enchantments, durability, and naming of the breastplate will be ret
 ---
 ## Download
 
+:::info
+
+v2.0 or above, all players need to install resource packs or mods
+
+:::
+
 <a className="button button--success button--lg" target="_blank" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>
+
+##
+
+:::tip
+
+The features of the mod and the data pack are identical.   
+Data pack will only apply to a single world, mod will apply to all worlds.   
+Fabric requires [**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt requires [**Quilted Fabric API**](https://modrinth.com/mod/qsl)   
+
+:::

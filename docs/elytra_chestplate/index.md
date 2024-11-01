@@ -25,4 +25,20 @@ pagination_prev:  null
 ---
 ## 下載
 
+:::info
+
+**v2.0以上版本，所有玩家皆需要安裝資源包或模組**   
+
+:::
+
 <a className="button button--success button--lg" target="_blank" href="https://modrinth.com/datapack/elytra_chestplate">Modrinth</a>
+
+##
+
+:::tip
+
+模組與資料包的所有功能皆為相同。   
+資料包僅會套用於單一世界，模組會自動套用於所有世界。   
+Fabric需要[**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt需要[**Quilted Fabric API**](https://modrinth.com/mod/qsl)
+
+:::
