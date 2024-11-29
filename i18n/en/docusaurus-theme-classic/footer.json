@@ -38,5 +38,13 @@
   "link.item.label.鞘翅胸甲": {
     "message": "Elytra Chestplate",
     "description": "The label of footer link with label=鞘翅胸甲 linking to /elytra_chestplate"
+  },
+  "link.item.label.CurseForge": {
+    "message": "CurseForge",
+    "description": "The label of footer link with label=CurseForge linking to https://www.curseforge.com/members/vipvincent/projects"
+  },
+  "link.item.label.Planet Minecraft": {
+    "message": "Planet Minecraft",
+    "description": "The label of footer link with label=Planet Minecraft linking to https://www.planetminecraft.com/member/vipvincent/"
   }
 }

@@ -31,8 +31,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hant',
-    locales: ['en','zh-Hant'],
+    defaultLocale: 'tw',
+    locales: ['en','tw'],
     path: 'i18n',
 	localeConfigs: {
 		'en': {
@@ -40,7 +40,7 @@ const config = {
 			direction: 'ltr',
       path:'en',
 		},
-		'zh-Hant': {
+		'tw': {
 			label: '中文',
 			direction: 'ltr',
       path:'tw',
@@ -157,6 +157,14 @@ const config = {
               {
                 label: 'Modrinth',
                 href: 'https://modrinth.com/user/vipvincent1107',
+              },
+              {
+                label: 'CurseForge',
+                href: 'https://www.curseforge.com/members/vipvincent/projects',
+              },
+              {
+                label: 'Planet Minecraft',
+                href: 'https://www.planetminecraft.com/member/vipvincent/',
               },
               {
                 label: 'YouTube',

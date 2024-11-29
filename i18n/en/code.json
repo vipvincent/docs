@@ -332,5 +332,9 @@
   },
   "你可以將胸甲與鞘翅同時裝備並使用": {
     "message": "You can equip and use chestplate and elytra at the same time"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "This author has not written any posts yet.",
+    "description": "The text for authors with 0 blog post"
   }
 }
