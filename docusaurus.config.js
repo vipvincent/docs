@@ -33,14 +33,17 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hant',
     locales: ['en','zh-Hant'],
+    path: 'i18n',
 	localeConfigs: {
 		'en': {
 			label: 'English',
 			direction: 'ltr',
+      path:'en',
 		},
 		'zh-Hant': {
 			label: '中文',
 			direction: 'ltr',
+      path:'tw',
 		}
 	}
   },
@@ -174,13 +177,6 @@ const config = {
         respectPrefersColorScheme: true,
       },
     }),
-  scripts: [
-    {
-      src: 'https://use.fontawesome.com/releases/v6.6.0/js/all.js',
-      async: true,
-      crossorigin: "anonymous",
-    },
-  ],
 };
 
 export default config;

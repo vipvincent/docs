@@ -30,6 +30,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css');
 
 :root {
   --ifm-font-family-base: 'Noto Sans TC', sans-serif;
