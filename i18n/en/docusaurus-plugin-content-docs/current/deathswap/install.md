@@ -30,7 +30,7 @@ After the installation is complete, a language setting interface will pop up. Pl
 ![language](./img/language_menu.png)
 
 Then the game will be remade. If you are an OP player, please click on the prompt in the chat room, or switch to creative mode to obtain administrator rights.   
-Manually grant administrator permissions to view the [**Command list**](./command#tag-add-admin)
+Manually grant administrator permissions to view the [**Command list**](./command#remove-admin-rights)
 
 ![reset](./img/reset.png)
 

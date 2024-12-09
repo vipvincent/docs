@@ -3,7 +3,7 @@ sidebar_position: 2
 pagination_prev:  null 
 ---
 
-# Craftable Invisible Item Frame
+# Invisibility Item Frame
 
 Allows invisibility Item Frame that originally need to be obtained through commands,now can be craft.
 

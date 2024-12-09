@@ -3,7 +3,7 @@ sidebar_position: 2
 pagination_prev:  null 
 ---
 
-# 合成隱形物品展示框
+# 隱形物品展示框
 
 讓原本需要透過指令獲取的隱形物品展示框，可以透過合成獲取。
 

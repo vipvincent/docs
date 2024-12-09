@@ -1,47 +1,87 @@
 ---
 sidebar_position: 2
 pagination_next:  null 
-description: Death Swap command List
+description: Death Swap command list
 ---
 
 # Command List
 
-## `/reload`
+### Reload File
 
-Reloading file, only OP players can do it.  
+`/reload`   
+Only for OP players  
 
-## `/function deathswap:install`
+### Install Death Swap
 
-install Death Swap, only OP players can do it.   
-see the [Installation Guide](./install)
+`/function deathswap:install`     
+Only for OP players    
+See More in the [Installation Guide](./install)
 
-## `/function deathswap:uninstall`
+### Unstall Death Swap
 
-Uninstall Death Swap, only OP players can do it.
+ `/function deathswap:uninstall`   
+Only for OP players 
 
-## `/function deathswap:ui/language`
+### Restall Death Swap
 
-Display the setting language interface, only OP players can do it.
+ `/function deathswap:reinstall`   
+Only for OP players 
+
+### Language interface
+
+`/trigger deathswap set 10`   
+Admin right players can do it   
+
+Or
+
+`/function deathswap:ui/language`   
+Only for OP players  
 
 ![language](./img/language_menu.png)
 
-## `/tag <player> add admin` {#tag-add-admin}
+<details>
+<summary>Set language directly</summary>
 
-Give admin rights for players, only OP players can do it.  
-You can also switch directly to creative mode to obtain admini rights.
+```mdx-code-block
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+```
+
+#### For players with administrator rights
+
+<Tabs groupId="language">
+  <TabItem value="en" label="English">`/trigger deathswap set 11`</TabItem>
+  <TabItem value="tw" label="中文">`/trigger deathswap set 12`</TabItem>
+</Tabs>
+
+#### For OP players
+<Tabs groupId="language">
+  <TabItem value="en" label="English">`/function deathswap:setting/language/en`</TabItem>
+  <TabItem value="tw" label="中文">`/function deathswap:setting/language/tw`</TabItem>
+</Tabs>
+
+</details>
+
+### Give admin rights
+
+`/tag <玩家> add admin`   
+Only for OP players    
+You can also switch directly to creative mode to obtain administrator rights
 
 Example:  
-`/tag @s add admin` Give your admin rights.  
-`/tag Alex add admin` Give player Alex admin rights.
+`/tag @s add admin` Give your admin rights  
+`/tag Alex add admin` Give player Alex admin rights
 
-## `/tag <player> remove admin` {#tag-remove-admin}
+### Remove admin rights
 
-Remove admin rights for players, only OP players can do it.
+`/tag <玩家> remove admin`   
+Only for OP players
 
-Example:   
-`/tag @s remove admin` Remove your admin rights.    
-`/tag Alex remove admin` Remove player Alex's admin rights.
+Example:  
+`/tag @s remove admin` Remove your admin rights  
+`/tag Alex remove admin` Remove player Alex's admin rights
 
-## `/trigger deathswap set 5`
+### Reset Game
 
-Reset game, admin right players can do it.
+`/trigger deathswap set 5`   
+Admin right players can do it.

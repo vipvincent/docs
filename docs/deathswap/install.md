@@ -30,7 +30,7 @@ Fabric需要[**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt需要[
 ![language](./img/language_menu.png)
 
 然後會重製遊戲。接者如果你是OP玩家，請點擊聊天室的提示，或者切到創造模式，就可以獲得管理員權限。   
-手動給予管理員權限可以查看[**指令列表**](./command#tag-add-admin)
+手動給予管理員權限可以查看[**指令列表**](./command#給予管理員權限)
 
 ![reset](./img/reset.png)
 
