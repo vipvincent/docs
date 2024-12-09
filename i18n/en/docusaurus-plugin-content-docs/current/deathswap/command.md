@@ -85,3 +85,8 @@ Example:
 
 `/trigger deathswap set 5`   
 Admin right players can do it.
+
+或者
+
+`/function deathswap:reset`  
+Only for OP players

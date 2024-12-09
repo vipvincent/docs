@@ -85,3 +85,8 @@ import TabItem from '@theme/TabItem';
 
 `/trigger deathswap set 5`   
 具有管理員權限的玩家可以使用
+
+或者
+
+`/function deathswap:reset`  
+僅限OP玩家操作
