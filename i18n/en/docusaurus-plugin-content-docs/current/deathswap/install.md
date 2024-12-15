@@ -27,7 +27,7 @@ After entering `/reload`, click Install Deathswap, or enter `/function deathswap
 
 After the installation is complete, a language setting interface will pop up. Please select your language.
 
-![language](./img/language_menu.png)
+![language](./img/language_install.png)
 
 Then the game will be remade. If you are an OP player, please click on the prompt in the chat room, or switch to creative mode to obtain administrator rights.   
 Manually grant administrator permissions to view the [**Command list**](./command#remove-admin-rights)

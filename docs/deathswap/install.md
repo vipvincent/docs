@@ -27,7 +27,7 @@ Fabric需要[**Fabric API**](https://modrinth.com/mod/fabric-api)，Quilt需要[
 
 安裝完成後會跳出一個設定語言介面，請選擇你的語言。
 
-![language](./img/language_menu.png)
+![language](./img/language_install.png)
 
 然後會重製遊戲。接者如果你是OP玩家，請點擊聊天室的提示，或者切到創造模式，就可以獲得管理員權限。   
 手動給予管理員權限可以查看[**指令列表**](./command#給予管理員權限)
