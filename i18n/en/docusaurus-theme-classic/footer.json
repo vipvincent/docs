@@ -1,8 +1,4 @@
 {
-  "copyright": {
-    "message": "Copyright © 2024 vipvincent. Built with Docusaurus.",
-    "description": "The footer copyright"
-  },
   "link.title.文檔": {
     "message": "Docs",
     "description": "The title of the footer links column with title=文檔 in the footer"
