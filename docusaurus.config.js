@@ -25,7 +25,6 @@ const config = {
   trailingSlash: false, // trailing slash
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -39,11 +38,13 @@ const config = {
 			label: 'English',
 			direction: 'ltr',
       path:'en',
+      htmlLang: 'en',
 		},
 		'tw': {
 			label: '中文',
 			direction: 'ltr',
       path:'tw',
+      htmlLang: 'zh-TW',
 		}
 	}
   },
